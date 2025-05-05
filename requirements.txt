@@ -1,4 +1,4 @@
 Flask
 requests
 pycryptodome
-protobuf_decoder
+protobuf
